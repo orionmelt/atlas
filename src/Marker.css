@@ -1,0 +1,23 @@
+.marker {
+  cursor: pointer;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.marker:hover {
+  animation-duration: 0.5s;
+  animation-iteration-count: 1;
+  animation-name: zoom;
+}
+
+@keyframes zoom {
+  0% {
+    transform: translate(-50%, -50%) scale(1, 1);
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(2, 2);
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1, 1);
+  }
+}
