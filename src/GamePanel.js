@@ -5,7 +5,7 @@ const GamePanel = (props) => {
   const {currentRound, totalRounds, place, question, score, answerPlace, showNext, gameOver, onNext, onReset} = props;
   const answered = answerPlace !== null;
   const correctAnswer = answered && place.name === answerPlace.name;
-  const nextButtonText = showNext ? (answered ? "Next Round" : "Skip Round") : "End Game";
+  const nextButtonText = gameOver ? "Game Over" : showNext ? (answered ? "Next Round" : "Skip Round") : "End Game";
   const correctAnswerText = getRandomElement(["Awesome!", "You got it!", "Way to go!", "Great job!"]);
   const wrongAnswerText = getRandomElement(["Close but no cigar!", "Sorry!", "Oh no!"]);
   const correctAnswerEmoji = getRandomElement(["😊", "😇", "😎", "😁"]);
@@ -57,7 +57,7 @@ const GamePanel = (props) => {
               {gameOverEmoji}
             </div>
             <div className="heading">
-              Game Over
+              {score > 0 ? "Good job" : "Sorry"}
             </div>
             <div className="score-blurb">
               You scored {score} points.
