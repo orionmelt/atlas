@@ -1,4 +1,4 @@
-const data = [
+[
   {
     "name": "Afghanistan",
     "type": "country",
@@ -2106,12 +2106,12 @@ const data = [
     "wikiLink": "New York",
     "questions": [
       {
-        difficulty: 0,
-        type: "text",
-        text: "Which is the most populous city in the US?",
-        labels: ["all"],
-        choices: ["Los Angeles", "San Francisco", "Dallas", "Boston", "Washington"],
-        zoom: 4
+        "difficulty": 0,
+        "type": "text",
+        "text": "Which is the most populous city in the US?",
+        "labels": ["all"],
+        "choices": ["Los Angeles", "San Francisco", "Dallas", "Boston", "Washington"],
+        "zoom": 4
       }
     ]
   },
@@ -2125,10 +2125,10 @@ const data = [
     "wikiLink": "Los Angeles",
     "questions": [
       {
-        difficulty: 0,
-        type: "text",
-        text: "Which is the larget city in the state of California?",
-        labels: ["all"]
+        "difficulty": 0,
+        "type": "text",
+        "text": "Which is the larget city in the state of California?",
+        "labels": ["all"]
       }
     ]
   },
@@ -2142,10 +2142,10 @@ const data = [
     "wikiLink": "Chicago",
     "questions": [
       {
-        difficulty: 1,
-        type: "text",
-        text: "Landmarks in this city include Millennium Park, Navy Pier, and the Magnificent Mile.",
-        labels: ["all"]
+        "difficulty": 1,
+        "type": "text",
+        "text": "Landmarks in this city include Millennium Park, Navy Pier, and the Magnificent Mile.",
+        "labels": ["all"]
       }
     ]
   },
@@ -2158,10 +2158,10 @@ const data = [
     "lng": -95.3698028,
     "wikiLink": "Houston",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Which of these cities is nicknamed the Bayou City?",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which of these cities is nicknamed the Bayou City?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2173,10 +2173,10 @@ const data = [
     "lng": -75.1652215,
     "wikiLink": "Philadelphia",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Which city served as capital of the Pennsylvania Colony during the British colonial era?",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which city served as capital of the Pennsylvania Colony during the British colonial era?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2188,10 +2188,10 @@ const data = [
     "lng": -112.0740373,
     "wikiLink": "Phoenix,_Arizona",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Which city became the capital of Arizona Territory in 1889?",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which city became the capital of Arizona Territory in 1889?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2203,10 +2203,10 @@ const data = [
     "lng": -98.4936282,
     "wikiLink": "San_Antonio",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Which is the largest majority-Hispanic city in the United States, with 64% of its population being Hispanic?",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which is the largest majority-Hispanic city in the United States, with 64% of its population being Hispanic?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2218,10 +2218,10 @@ const data = [
     "lng": -117.1610838,
     "wikiLink": "San_Diego",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city has the busiest single-runway airport in the world.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city has the busiest single-runway airport in the world.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2233,10 +2233,10 @@ const data = [
     "lng": -96.7969879,
     "wikiLink": "Dallas",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city has the largest inland metropolitan area in the U.S. that lacks any navigable link to the sea.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city has the largest inland metropolitan area in the U.S. that lacks any navigable link to the sea.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2248,10 +2248,10 @@ const data = [
     "lng": -121.8863286,
     "wikiLink": "San_Jose,_California",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Which is the largest city in Northern California by both population and area?",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which is the largest city in Northern California by both population and area?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2263,10 +2263,10 @@ const data = [
     "lng": -97.7430608,
     "wikiLink": "Austin",
     "questions": [{
-      difficulty: 0,
-      type: "text",
-      text: "Which of these is the capital city of Texas?",
-      labels: ["all"]
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which of these is the capital city of Texas?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2278,10 +2278,10 @@ const data = [
     "lng": -86.158068,
     "wikiLink": "Indianapolis",
     "questions": [{
-      difficulty: 0,
-      type: "text",
-      text: "Which of these is the capital city of Indiana?",
-      labels: ["all"]
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which of these is the capital city of Indiana?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2293,10 +2293,10 @@ const data = [
     "lng": -81.655651,
     "wikiLink": "Jacksonville",
     "questions": [{
-      difficulty: 0,
-      type: "text",
-      text: "Which is the largest city by area in the contiguous United States?",
-      labels: ["all"]
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which is the largest city by area in the contiguous United States?",
+      "labels": ["all"]
     }]
   },
   {
@@ -2308,10 +2308,10 @@ const data = [
     "lng": -122.4194155,
     "wikiLink": "San_Francisco",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "Three-quarters of this city was destroyed by the 1906 earthquake and fire.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "Three-quarters of this city was destroyed by the 1906 earthquake and fire.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2323,10 +2323,10 @@ const data = [
     "lng": -82.9987942,
     "wikiLink": "Columbus,_Ohio",
     "questions": [{
-      difficulty: 0,
-      type: "text",
-      text: "This city originated as numerous Native American settlements on the banks of the Scioto River.",
-      labels: ["all"]
+      "difficulty": 0,
+      "type": "text",
+      "text": "This city originated as numerous Native American settlements on the banks of the Scioto River.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2338,10 +2338,10 @@ const data = [
     "lng": -80.8431267,
     "wikiLink": "Charlotte",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city is home to the corporate headquarters of Bank of America, Truist Financial, and the east coast headquarters of Wells Fargo.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is home to the corporate headquarters of Bank of America, Truist Financial, and the east coast headquarters of Wells Fargo.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2353,10 +2353,10 @@ const data = [
     "lng": -97.3307658,
     "wikiLink": "Fort Worth",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city was established in 1849 as an army outpost on a bluff overlooking the Trinity River.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city was established in 1849 as an army outpost on a bluff overlooking the Trinity River.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2368,10 +2368,10 @@ const data = [
     "lng": -83.0457538,
     "wikiLink": "Detroit",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "In 2015, this city was named a City of Design by UNESCO, the first U.S. city to receive that designation.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "In 2015, this city was named a City of Design by UNESCO, the first U.S. city to receive that designation.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2383,10 +2383,10 @@ const data = [
     "lng": -106.4424559,
     "wikiLink": "El Paso",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city is a five-time All-America City Award winner, winning in 1969, 2010, 2018, 2020, and 2021.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is a five-time All-America City Award winner, winning in 1969, 2010, 2018, 2020, and 2021.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2398,10 +2398,10 @@ const data = [
     "lng": -90.0489801,
     "wikiLink": "Memphis,_Tennessee",
     "questions": [{
-      difficulty: 1,
-      type: "text",
-      text: "This city is home to a major professional sports team, the Grizzlies of the NBA.",
-      labels: ["all"]
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is home to a major professional sports team, the Grizzlies of the NBA.",
+      "labels": ["all"]
     }]
   },
   {
@@ -2413,10 +2413,10 @@ const data = [
     "lng": -122.3320708,
     "wikiLink": "Seattle",
     "questions": [{
-      difficulty: 0,
-      type: "text",
-      text: "This city was the origin of the bands Nirvana, Pearl Jam, Soundgarden, Heart, Alice in Chains, and Foo Fighters.",
-      labels: ["all"]
+      "difficulty": 0,
+      "type": "text",
+      "text": "This city was the origin of the bands Nirvana, Pearl Jam, Soundgarden, Heart, Alice in Chains, and Foo Fighters.",
+      "labels": ["all"]
     }]
   },
   {
@@ -7219,39 +7219,4 @@ const data = [
     "wikiLink": "Fort Myers",
     "questions": []
   }
-];
-
-const places = data.map(p => {
-  if (p.type === "country" || p.type === "state") {
-    p.questions.push({
-      difficulty: 0,
-      text:  "Which of these is " + p.name + "?",
-      type: "text",
-      labels: []
-    });
-  }
-
-  if (p.type === "country") {
-    p.questions.push({
-      difficulty: 0,
-      text: "Which country's flag is this?",
-      type: "image",
-      imageType: "emoji",
-      imageSrc: p.flag,
-      labels: ["administrative.country"]
-    });
-  }
-
-  if (p.type === "city") {
-    p.questions.push({
-      difficulty: 0,
-      text: "Which of these is " + p.name + ", " + p.state + "?",
-      type: "text",
-      labels: ["administrative.country"]
-    });
-  }
-  
-  return p;
-});
-
-export default places;
+]

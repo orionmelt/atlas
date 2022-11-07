@@ -89,7 +89,7 @@ const mapOptions = {
 };
 
 const Intro = (props) => {
-  const {onStart} = props;
+  const {isLoading, onStart} = props;
   const cities = [
     [40.7127837, -74.0059413],
     [34.0522342, -118.2436849],
@@ -98,6 +98,7 @@ const Intro = (props) => {
     [39.9525839, -75.1652215]
   ];
   const center = getRandomElement(cities);
+  const buttonText = isLoading ? "Loadng..." : "Play";
   return (
     <div id="background">
       <GoogleMapReact
@@ -110,7 +111,7 @@ const Intro = (props) => {
       <div id="intro" lat={center[0]} lng={center[1]}>
         <h1>Atlas</h1>
         <h2>A maps-based trivia game</h2>
-        <button className="pure-button pure-button-primary play-button" onClick={onStart}>Play</button>
+        <button disabled={isLoading} className="pure-button pure-button-primary play-button" onClick={onStart}>{buttonText}</button>
       </div>
     </div>
   );
