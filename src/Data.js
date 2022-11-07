@@ -515,8 +515,8 @@ const data = [
   {
     "name": "Georgia",
     "type": "country",
-    "lat": 32.165622,
-    "lng": -82.900075,
+    "lat": 42.315407,
+    "lng": 43.356892,
     "wikiLink": "Georgia_(country)",
     "flag": "🇬🇪",
     "questions": []
@@ -1644,6 +1644,456 @@ const data = [
     "lng": 29.154857,
     "wikiLink": "Zimbabwe",
     "flag": "🇿🇼",
+    "questions": []
+  },
+  {
+    "name": "Alaska",
+    "type": "state",
+    "country": "US",
+    "lat": 61.385,
+    "lng": -152.2683,
+    "wikiLink": "Alaska",
+    "questions": []
+  },
+  {
+    "name": "Alabama",
+    "type": "state",
+    "country": "US",
+    "lat": 32.799,
+    "lng": -86.8073,
+    "wikiLink": "Alabama",
+    "questions": []
+  },
+  {
+    "name": "Arkansas",
+    "type": "state",
+    "country": "US",
+    "lat": 34.9513,
+    "lng": -92.3809,
+    "wikiLink": "Arkansas",
+    "questions": []
+  },
+  {
+    "name": "Arizona",
+    "type": "state",
+    "country": "US",
+    "lat": 33.7712,
+    "lng": -111.3877,
+    "wikiLink": "Arizona",
+    "questions": []
+  },
+  {
+    "name": "California",
+    "type": "state",
+    "country": "US",
+    "lat": 36.17,
+    "lng": -119.7462,
+    "wikiLink": "California",
+    "questions": []
+  },
+  {
+    "name": "Colorado",
+    "type": "state",
+    "country": "US",
+    "lat": 39.0646,
+    "lng": -105.3272,
+    "wikiLink": "Colorado",
+    "questions": []
+  },
+  {
+    "name": "Connecticut",
+    "type": "state",
+    "country": "US",
+    "lat": 41.5834,
+    "lng": -72.7622,
+    "wikiLink": "Connecticut",
+    "questions": []
+  },
+  {
+    "name": "Delaware",
+    "type": "state",
+    "country": "US",
+    "lat": 39.3498,
+    "lng": -75.5148,
+    "wikiLink": "Delaware",
+    "questions": []
+  },
+  {
+    "name": "Florida",
+    "type": "state",
+    "country": "US",
+    "lat": 27.8333,
+    "lng": -81.717,
+    "wikiLink": "Florida",
+    "questions": []
+  },
+  {
+    "name": "Georgia",
+    "type": "state",
+    "country": "US",
+    "lat": 32.9866,
+    "lng": -83.6487,
+    "wikiLink": "Georgia",
+    "questions": []
+  },
+  {
+    "name": "Hawaii",
+    "type": "state",
+    "country": "US",
+    "lat": 21.1098,
+    "lng": -157.5311,
+    "wikiLink": "Hawaii",
+    "questions": []
+  },
+  {
+    "name": "Iowa",
+    "type": "state",
+    "country": "US",
+    "lat": 42.0046,
+    "lng": -93.214,
+    "wikiLink": "Iowa",
+    "questions": []
+  },
+  {
+    "name": "Idaho",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2394,
+    "lng": -114.5103,
+    "wikiLink": "Idaho",
+    "questions": []
+  },
+  {
+    "name": "Illinois",
+    "type": "state",
+    "country": "US",
+    "lat": 40.3363,
+    "lng": -89.0022,
+    "wikiLink": "Illinois",
+    "questions": []
+  },
+  {
+    "name": "Indiana",
+    "type": "state",
+    "country": "US",
+    "lat": 39.8647,
+    "lng": -86.2604,
+    "wikiLink": "Indiana",
+    "questions": []
+  },
+  {
+    "name": "Kansas",
+    "type": "state",
+    "country": "US",
+    "lat": 38.5111,
+    "lng": -96.8005,
+    "wikiLink": "Kansas",
+    "questions": []
+  },
+  {
+    "name": "Kentucky",
+    "type": "state",
+    "country": "US",
+    "lat": 37.669,
+    "lng": -84.6514,
+    "wikiLink": "Kentucky",
+    "questions": []
+  },
+  {
+    "name": "Louisiana",
+    "type": "state",
+    "country": "US",
+    "lat": 31.1801,
+    "lng": -91.8749,
+    "wikiLink": "Louisiana",
+    "questions": []
+  },
+  {
+    "name": "Massachusetts",
+    "type": "state",
+    "country": "US",
+    "lat": 42.2373,
+    "lng": -71.5314,
+    "wikiLink": "Massachusetts",
+    "questions": []
+  },
+  {
+    "name": "Maryland",
+    "type": "state",
+    "country": "US",
+    "lat": 39.0724,
+    "lng": -76.7902,
+    "wikiLink": "Maryland",
+    "questions": []
+  },
+  {
+    "name": "Maine",
+    "type": "state",
+    "country": "US",
+    "lat": 44.6074,
+    "lng": -69.3977,
+    "wikiLink": "Maine",
+    "questions": []
+  },
+  {
+    "name": "Michigan",
+    "type": "state",
+    "country": "US",
+    "lat": 43.3504,
+    "lng": -84.5603,
+    "wikiLink": "Michigan",
+    "questions": []
+  },
+  {
+    "name": "Minnesota",
+    "type": "state",
+    "country": "US",
+    "lat": 45.7326,
+    "lng": -93.9196,
+    "wikiLink": "Minnesota",
+    "questions": []
+  },
+  {
+    "name": "Missouri",
+    "type": "state",
+    "country": "US",
+    "lat": 38.4623,
+    "lng": -92.302,
+    "wikiLink": "Missouri",
+    "questions": []
+  },
+  {
+    "name": "Mississippi",
+    "type": "state",
+    "country": "US",
+    "lat": 32.7673,
+    "lng": -89.6812,
+    "wikiLink": "Mississippi",
+    "questions": []
+  },
+  {
+    "name": "Montana",
+    "type": "state",
+    "country": "US",
+    "lat": 46.9048,
+    "lng": -110.3261,
+    "wikiLink": "Montana",
+    "questions": []
+  },
+  {
+    "name": "North Carolina",
+    "type": "state",
+    "country": "US",
+    "lat": 35.6411,
+    "lng": -79.8431,
+    "wikiLink": "North Carolina",
+    "questions": []
+  },
+  {
+    "name": "North Dakota",
+    "type": "state",
+    "country": "US",
+    "lat": 47.5362,
+    "lng": -99.793,
+    "wikiLink": "North Dakota",
+    "questions": []
+  },
+  {
+    "name": "Nebraska",
+    "type": "state",
+    "country": "US",
+    "lat": 41.1289,
+    "lng": -98.2883,
+    "wikiLink": "Nebraska",
+    "questions": []
+  },
+  {
+    "name": "New Hampshire",
+    "type": "state",
+    "country": "US",
+    "lat": 43.4108,
+    "lng": -71.5653,
+    "wikiLink": "New Hampshire",
+    "questions": []
+  },
+  {
+    "name": "New Jersey",
+    "type": "state",
+    "country": "US",
+    "lat": 40.314,
+    "lng": -74.5089,
+    "wikiLink": "New Jersey",
+    "questions": []
+  },
+  {
+    "name": "New Mexico",
+    "type": "state",
+    "country": "US",
+    "lat": 34.8375,
+    "lng": -106.2371,
+    "wikiLink": "New Mexico",
+    "questions": []
+  },
+  {
+    "name": "Nevada",
+    "type": "state",
+    "country": "US",
+    "lat": 38.4199,
+    "lng": -117.1219,
+    "wikiLink": "Nevada",
+    "questions": []
+  },
+  {
+    "name": "New York",
+    "type": "state",
+    "country": "US",
+    "lat": 42.1497,
+    "lng": -74.9384,
+    "wikiLink": "New York",
+    "questions": []
+  },
+  {
+    "name": "Ohio",
+    "type": "state",
+    "country": "US",
+    "lat": 40.3736,
+    "lng": -82.7755,
+    "wikiLink": "Ohio",
+    "questions": []
+  },
+  {
+    "name": "Oklahoma",
+    "type": "state",
+    "country": "US",
+    "lat": 35.5376,
+    "lng": -96.9247,
+    "wikiLink": "Oklahoma",
+    "questions": []
+  },
+  {
+    "name": "Oregon",
+    "type": "state",
+    "country": "US",
+    "lat": 44.5672,
+    "lng": -122.1269,
+    "wikiLink": "Oregon",
+    "questions": []
+  },
+  {
+    "name": "Pennsylvania",
+    "type": "state",
+    "country": "US",
+    "lat": 40.5773,
+    "lng": -77.264,
+    "wikiLink": "Pennsylvania",
+    "questions": []
+  },
+  {
+    "name": "Rhode Island",
+    "type": "state",
+    "country": "US",
+    "lat": 41.6772,
+    "lng": -71.5101,
+    "wikiLink": "Rhode Island",
+    "questions": []
+  },
+  {
+    "name": "South Carolina",
+    "type": "state",
+    "country": "US",
+    "lat": 33.8191,
+    "lng": -80.9066,
+    "wikiLink": "South Carolina",
+    "questions": []
+  },
+  {
+    "name": "South Dakota",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2853,
+    "lng": -99.4632,
+    "wikiLink": "South Dakota",
+    "questions": []
+  },
+  {
+    "name": "Tennessee",
+    "type": "state",
+    "country": "US",
+    "lat": 35.7449,
+    "lng": -86.7489,
+    "wikiLink": "Tennessee",
+    "questions": []
+  },
+  {
+    "name": "Texas",
+    "type": "state",
+    "country": "US",
+    "lat": 31.106,
+    "lng": -97.6475,
+    "wikiLink": "Texas",
+    "questions": []
+  },
+  {
+    "name": "Utah",
+    "type": "state",
+    "country": "US",
+    "lat": 40.1135,
+    "lng": -111.8535,
+    "wikiLink": "Utah",
+    "questions": []
+  },
+  {
+    "name": "Virginia",
+    "type": "state",
+    "country": "US",
+    "lat": 37.768,
+    "lng": -78.2057,
+    "wikiLink": "Virginia",
+    "questions": []
+  },
+  {
+    "name": "Vermont",
+    "type": "state",
+    "country": "US",
+    "lat": 44.0407,
+    "lng": -72.7093,
+    "wikiLink": "Vermont",
+    "questions": []
+  },
+  {
+    "name": "Washington",
+    "type": "state",
+    "country": "US",
+    "lat": 47.3917,
+    "lng": -121.5708,
+    "wikiLink": "Washington",
+    "questions": []
+  },
+  {
+    "name": "Wisconsin",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2563,
+    "lng": -89.6385,
+    "wikiLink": "Wisconsin",
+    "questions": []
+  },
+  {
+    "name": "West Virginia",
+    "type": "state",
+    "country": "US",
+    "lat": 38.468,
+    "lng": -80.9696,
+    "wikiLink": "West Virginia",
+    "questions": []
+  },
+  {
+    "name": "Wyoming",
+    "type": "state",
+    "country": "US",
+    "lat": 42.7475,
+    "lng": -107.2085,
+    "wikiLink": "Wyoming",
     "questions": []
   },
   {
@@ -6772,14 +7222,16 @@ const data = [
 ];
 
 const places = data.map(p => {
-  if (p.type === "country") {
+  if (p.type === "country" || p.type === "state") {
     p.questions.push({
       difficulty: 0,
       text:  "Which of these is " + p.name + "?",
       type: "text",
       labels: []
     });
-  
+  }
+
+  if (p.type === "country") {
     p.questions.push({
       difficulty: 0,
       text: "Which country's flag is this?",
@@ -6796,7 +7248,7 @@ const places = data.map(p => {
       text: "Which of these is " + p.name + ", " + p.state + "?",
       type: "text",
       labels: ["administrative.country"]
-    })
+    });
   }
   
   return p;
