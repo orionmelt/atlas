@@ -62,7 +62,7 @@ const GamePanel = (props) => {
             <div className="score-blurb">
               You scored {score} points.
             </div>
-            <button onClick={onReset}>Play again</button>
+            <button className="pure-button pure-button-primary" onClick={onReset}>Play again</button>
           </div>
         }
       </div>

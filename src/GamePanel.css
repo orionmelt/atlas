@@ -1,8 +1,8 @@
 #game-panel {
   height: 100%;
   margin: 0;
-  background-color: #cdb4db;
-  border: 1px solid #61a5c2;
+  background-color: #fff;
+  border-right: 1px solid #ddd;
   overflow: auto;
 }
 
@@ -16,6 +16,7 @@
 
 .bold {
   font-weight: 600;
+  text-transform: uppercase;
 }
 
 .next-button {
@@ -56,14 +57,13 @@
   text-align: center;
   border-radius:.5em;
   padding:1.5em;
+  background-color: #accbe1;
+  border: 1px solid #7c98b3;
 }
 
-.correct {
-  background-color: #38b000;
-}
-
-.incorrect {
-  background-color: #38b000;
+#game-over>button {
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
 #answer-feedback>.emoji, #game-over>.emoji {

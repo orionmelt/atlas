@@ -14,7 +14,7 @@ class GameMap extends React.Component {
     const latDistance = Math.abs(maxLat - minLat);
     const lngDistance = Math.abs(maxLng - minLng);
     const distance = Math.max(latDistance, lngDistance);
-    return distance < 20 ? 6 : 4;
+    return distance < 20 ? 5 : 4;
   }
 
   getMapOptions = (labelFeatures) => {
