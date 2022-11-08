@@ -2,92 +2,6 @@ import GoogleMapReact from "google-map-react";
 import {getRandomElement} from "./Utils";
 import "./Intro.css";
 
-const mapOptions = {
-  disableDefaultUI: true,
-  gestureHandling: "none",
-  keyboardShortcuts: false,
-  styles: [
-    {
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#f5f5f5"
-        }
-      ]
-    },
-    {
-      "featureType": "poi",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#eeeeee"
-        }
-      ]
-    },
-    {
-      "featureType": "poi.park",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#e5e5e5"
-        }
-      ]
-    },
-    {
-      "featureType": "road",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#ffffff"
-        }
-      ]
-    },
-    {
-      "featureType": "road.highway",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#dadada"
-        }
-      ]
-    },
-    {
-      "featureType": "transit.line",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#e5e5e5"
-        }
-      ]
-    },
-    {
-      "featureType": "transit.station",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#eeeeee"
-        }
-      ]
-    },
-    {
-      "featureType": "water",
-      "elementType": "geometry",
-      "stylers": [
-        {
-          "color": "#c9c9c9"
-        }
-      ]
-    },
-    {
-      featureType: "all",
-      elementType: "labels",
-      stylers: [
-        { "visibility": "off" }
-      ]
-    }
-  ]
-};
-
 const Intro = (props) => {
   const {isLoading, onStart} = props;
   const cities = [
@@ -97,6 +11,91 @@ const Intro = (props) => {
     [29.7604267, -95.3698028],
     [39.9525839, -75.1652215]
   ];
+  const mapOptions = {
+    disableDefaultUI: true,
+    gestureHandling: "none",
+    keyboardShortcuts: false,
+    styles: [
+      {
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#f5f5f5"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#eeeeee"
+          }
+        ]
+      },
+      {
+        "featureType": "poi.park",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#e5e5e5"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#ffffff"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#dadada"
+          }
+        ]
+      },
+      {
+        "featureType": "transit.line",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#e5e5e5"
+          }
+        ]
+      },
+      {
+        "featureType": "transit.station",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#eeeeee"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "color": "#c9c9c9"
+          }
+        ]
+      },
+      {
+        featureType: "all",
+        elementType: "labels",
+        stylers: [
+          { "visibility": "off" }
+        ]
+      }
+    ]
+  };
   const center = getRandomElement(cities);
   const buttonText = isLoading ? "Loadng..." : "Play";
   return (
