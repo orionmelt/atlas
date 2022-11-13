@@ -39,7 +39,7 @@ const GamePanel = (props) => {
               <>
                 <div className="emoji">{correctAnswerEmoji}</div>
                 <div className="heading">{correctAnswerText}</div>
-                <p>Read more about <a href={wikiLink}>{place.name}</a> on Wikipedia.</p>
+                <p>Read more about <a target="_blank" rel="noopener noreferrer" href={wikiLink}>{place.name}</a> on Wikipedia.</p>
               </>
             }
             {!correctAnswer &&
