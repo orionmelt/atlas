@@ -88,7 +88,7 @@ class Atlas extends React.Component {
 
     return (
       <div id="atlas" className="pure-g">
-        <div className="pure-u-1-4">
+        <div className="pure-u-1 pure-u-md-1-4">
           <GamePanel
             currentRound={currentRoundNum+1}
             totalRounds={this.state.rounds.length}
@@ -102,14 +102,16 @@ class Atlas extends React.Component {
             onReset={this.reset}
           />
         </div>
-        <div className="pure-u-3-4">
-          <GameMap
-            onMarkerClick={this.handleClick}
-            place={round.place}
-            labelFeatures={round.question.labels}
-            neighbors={round.neighbors}
-            center={round.center}
-          />
+        <div className="pure-u-1 pure-u-md-3-4 map-container">
+          <div id="map">
+            <GameMap
+              onMarkerClick={this.handleClick}
+              place={round.place}
+              labelFeatures={round.question.labels}
+              neighbors={round.neighbors}
+              center={round.center}
+            />
+          </div>
         </div>
       </div>
     );

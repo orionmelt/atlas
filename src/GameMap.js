@@ -1,7 +1,6 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
 import Marker from "./Marker";
-import "./GameMap.css";
 
 class GameMap extends React.Component {
   calcZoom = (places) => {
@@ -66,24 +65,22 @@ class GameMap extends React.Component {
     const zoom = this.calcZoom(choices);
     const mapOptions = this.getMapOptions(labelFeatures);
     return (
-      <div id="map-container">
-        <GoogleMapReact
-          bootstrapURLKeys={{ key: process.env.REACT_APP_GOOGLE_MAPS_API_KEY }}
-          center={[center.lat, center.lng]}
-          zoom={zoom}
-          options={mapOptions}
-        >
-          {choices.map((place) =>
-            <Marker
-              key={place.name}
-              lat={+place.lat}
-              lng={+place.lng}
-              place={place}
-              onClick={onMarkerClick}
-            />
-          )}
-        </GoogleMapReact>
-      </div>
+      <GoogleMapReact
+        bootstrapURLKeys={{ key: process.env.REACT_APP_GOOGLE_MAPS_API_KEY }}
+        center={[center.lat, center.lng]}
+        zoom={zoom}
+        options={mapOptions}
+      >
+        {choices.map((place) =>
+          <Marker
+            key={place.name}
+            lat={+place.lat}
+            lng={+place.lng}
+            place={place}
+            onClick={onMarkerClick}
+          />
+        )}
+      </GoogleMapReact>
     );
   }
 }
