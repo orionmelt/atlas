@@ -1,0 +1,2539 @@
+[
+  {
+    "name": "Afghanistan",
+    "type": "country",
+    "lat": 33.93911,
+    "lng": 67.709953,
+    "wikiLink": "Afghanistan",
+    "flag": "🇦🇫",
+    "questions": []
+  },
+  {
+    "name": "Albania",
+    "type": "country",
+    "lat": 41.153332,
+    "lng": 20.168331,
+    "wikiLink": "Albania",
+    "flag": "🇦🇱",
+    "questions": []
+  },
+  {
+    "name": "Algeria",
+    "type": "country",
+    "lat": 28.033886,
+    "lng": 1.659626,
+    "wikiLink": "Algeria",
+    "flag": "🇩🇿",
+    "questions": []
+  },
+  {
+    "name": "Andorra",
+    "type": "country",
+    "lat": 42.506285,
+    "lng": 1.521801,
+    "wikiLink": "Andorra",
+    "flag": "🇦🇩",
+    "questions": []
+  },
+  {
+    "name": "Angola",
+    "type": "country",
+    "lat": -11.202692,
+    "lng": 17.873887,
+    "wikiLink": "Angola",
+    "flag": "🇦🇴",
+    "questions": []
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "type": "country",
+    "lat": 17.074656,
+    "lng": -61.817521,
+    "wikiLink": "Antigua_and_Barbuda",
+    "flag": "🇦🇬",
+    "questions": []
+  },
+  {
+    "name": "Argentina",
+    "type": "country",
+    "lat": -38.416097,
+    "lng": -63.616672,
+    "wikiLink": "Argentina",
+    "flag": "🇦🇷",
+    "questions": []
+  },
+  {
+    "name": "Armenia",
+    "type": "country",
+    "lat": 40.069099,
+    "lng": 45.038189,
+    "wikiLink": "Armenia",
+    "flag": "🇦🇲",
+    "questions": []
+  },
+  {
+    "name": "Australia",
+    "type": "country",
+    "lat": -25.274398,
+    "lng": 133.775136,
+    "wikiLink": "Australia",
+    "flag": "🇦🇺",
+    "questions": []
+  },
+  {
+    "name": "Austria",
+    "type": "country",
+    "lat": 47.516231,
+    "lng": 14.550072,
+    "wikiLink": "Austria",
+    "flag": "🇦🇹",
+    "questions": []
+  },
+  {
+    "name": "Azerbaijan",
+    "type": "country",
+    "lat": 40.143105,
+    "lng": 47.576927,
+    "wikiLink": "Azerbaijan",
+    "flag": "🇦🇿",
+    "questions": []
+  },
+  {
+    "name": "The Bahamas",
+    "type": "country",
+    "lat": 25.03428,
+    "lng": -77.39628,
+    "wikiLink": "The_Bahamas",
+    "flag": "🇧🇸",
+    "questions": []
+  },
+  {
+    "name": "Bahrain",
+    "type": "country",
+    "lat": 26.0667,
+    "lng": 50.5577,
+    "wikiLink": "Bahrain",
+    "flag": "🇧🇭",
+    "questions": []
+  },
+  {
+    "name": "Bangladesh",
+    "type": "country",
+    "lat": 23.684994,
+    "lng": 90.356331,
+    "wikiLink": "Bangladesh",
+    "flag": "🇧🇩",
+    "questions": []
+  },
+  {
+    "name": "Barbados",
+    "type": "country",
+    "lat": 13.193887,
+    "lng": -59.543198,
+    "wikiLink": "Barbados",
+    "flag": "🇧🇧",
+    "questions": []
+  },
+  {
+    "name": "Belarus",
+    "type": "country",
+    "lat": 53.709807,
+    "lng": 27.953389,
+    "wikiLink": "Belarus",
+    "flag": "🇧🇾",
+    "questions": []
+  },
+  {
+    "name": "Belgium",
+    "type": "country",
+    "lat": 50.503887,
+    "lng": 4.469936,
+    "wikiLink": "Belgium",
+    "flag": "🇧🇪",
+    "questions": []
+  },
+  {
+    "name": "Belize",
+    "type": "country",
+    "lat": 17.189877,
+    "lng": -88.49765,
+    "wikiLink": "Belize",
+    "flag": "🇧🇿",
+    "questions": []
+  },
+  {
+    "name": "Benin",
+    "type": "country",
+    "lat": 9.30769,
+    "lng": 2.315834,
+    "wikiLink": "Benin",
+    "flag": "🇧🇯",
+    "questions": []
+  },
+  {
+    "name": "Bhutan",
+    "type": "country",
+    "lat": 27.514162,
+    "lng": 90.433601,
+    "wikiLink": "Bhutan",
+    "flag": "🇧🇹",
+    "questions": []
+  },
+  {
+    "name": "Bolivia",
+    "type": "country",
+    "lat": -16.290154,
+    "lng": -63.588653,
+    "wikiLink": "Bolivia",
+    "flag": "🇧🇴",
+    "questions": []
+  },
+  {
+    "name": "Botswana",
+    "type": "country",
+    "lat": -22.328474,
+    "lng": 24.684866,
+    "wikiLink": "Botswana",
+    "flag": "🇧🇼",
+    "questions": []
+  },
+  {
+    "name": "Brazil",
+    "type": "country",
+    "lat": -14.235004,
+    "lng": -51.92528,
+    "wikiLink": "Brazil",
+    "flag": "🇧🇷",
+    "questions": []
+  },
+  {
+    "name": "Brunei",
+    "type": "country",
+    "lat": 4.535277,
+    "lng": 114.727669,
+    "wikiLink": "Brunei",
+    "flag": "🇧🇳",
+    "questions": []
+  },
+  {
+    "name": "Bulgaria",
+    "type": "country",
+    "lat": 42.733883,
+    "lng": 25.48583,
+    "wikiLink": "Bulgaria",
+    "flag": "🇧🇬",
+    "questions": []
+  },
+  {
+    "name": "Burkina Faso",
+    "type": "country",
+    "lat": 12.238333,
+    "lng": -1.561593,
+    "wikiLink": "Burkina_Faso",
+    "flag": "🇧🇫",
+    "questions": []
+  },
+  {
+    "name": "Burundi",
+    "type": "country",
+    "lat": -3.373056,
+    "lng": 29.918886,
+    "wikiLink": "Burundi",
+    "flag": "🇧🇮",
+    "questions": []
+  },
+  {
+    "name": "Cambodia",
+    "type": "country",
+    "lat": 12.565679,
+    "lng": 104.990963,
+    "wikiLink": "Cambodia",
+    "flag": "🇰🇭",
+    "questions": []
+  },
+  {
+    "name": "Cameroon",
+    "type": "country",
+    "lat": 7.369722,
+    "lng": 12.354722,
+    "wikiLink": "Cameroon",
+    "flag": "🇨🇲",
+    "questions": []
+  },
+  {
+    "name": "Canada",
+    "type": "country",
+    "lat": 56.130366,
+    "lng": -106.346771,
+    "wikiLink": "Canada",
+    "flag": "🇨🇦",
+    "questions": []
+  },
+  {
+    "name": "Cape Verde",
+    "type": "country",
+    "lat": 15.120142,
+    "lng": -23.605172,
+    "wikiLink": "Cape_Verde",
+    "flag": "🇨🇻",
+    "questions": []
+  },
+  {
+    "name": "Chad",
+    "type": "country",
+    "lat": 15.454166,
+    "lng": 18.732207,
+    "wikiLink": "Chad",
+    "flag": "🇹🇩",
+    "questions": []
+  },
+  {
+    "name": "Chile",
+    "type": "country",
+    "lat": -35.675147,
+    "lng": -71.542969,
+    "wikiLink": "Chile",
+    "flag": "🇨🇱",
+    "questions": []
+  },
+  {
+    "name": "China",
+    "type": "country",
+    "lat": 35.86166,
+    "lng": 104.195397,
+    "wikiLink": "China",
+    "flag": "🇨🇳",
+    "questions": []
+  },
+  {
+    "name": "Colombia",
+    "type": "country",
+    "lat": 4.570868,
+    "lng": -74.297333,
+    "wikiLink": "Colombia",
+    "flag": "🇨🇴",
+    "questions": []
+  },
+  {
+    "name": "Comoros",
+    "type": "country",
+    "lat": -11.6455,
+    "lng": 43.3333,
+    "wikiLink": "Comoros",
+    "flag": "🇰🇲",
+    "questions": []
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "type": "country",
+    "lat": -0.228021,
+    "lng": 15.827659,
+    "wikiLink": "Democratic_Republic_of_the_Congo",
+    "flag": "🇨🇩",
+    "questions": []
+  },
+  {
+    "name": "Costa Rica",
+    "type": "country",
+    "lat": 9.748917,
+    "lng": -83.753428,
+    "wikiLink": "Costa_Rica",
+    "flag": "🇨🇷",
+    "questions": []
+  },
+  {
+    "name": "Croatia",
+    "type": "country",
+    "lat": 45.1,
+    "lng": 15.2,
+    "wikiLink": "Croatia",
+    "flag": "🇭🇷",
+    "questions": []
+  },
+  {
+    "name": "Cuba",
+    "type": "country",
+    "lat": 21.521757,
+    "lng": -77.781167,
+    "wikiLink": "Cuba",
+    "flag": "🇨🇺",
+    "questions": []
+  },
+  {
+    "name": "Cyprus",
+    "type": "country",
+    "lat": 35.126413,
+    "lng": 33.429859,
+    "wikiLink": "Cyprus",
+    "flag": "🇨🇾",
+    "questions": []
+  },
+  {
+    "name": "The Czech Republic",
+    "type": "country",
+    "lat": 49.817492,
+    "lng": 15.472962,
+    "wikiLink": "Czech_Republic",
+    "flag": "🇨🇿",
+    "questions": []
+  },
+  {
+    "name": "Denmark",
+    "type": "country",
+    "lat": 56.1554671,
+    "lng": 10.4309955,
+    "wikiLink": "Denmark",
+    "flag": "🇩🇰",
+    "questions": []
+  },
+  {
+    "name": "Djibouti",
+    "type": "country",
+    "lat": 11.825138,
+    "lng": 42.590275,
+    "wikiLink": "Djibouti",
+    "flag": "🇩🇯",
+    "questions": []
+  },
+  {
+    "name": "Dominica",
+    "type": "country",
+    "lat": 15.414999,
+    "lng": -61.370976,
+    "wikiLink": "Dominica",
+    "flag": "🇩🇲",
+    "questions": []
+  },
+  {
+    "name": "Timor-Leste",
+    "type": "country",
+    "lat": -8.874217,
+    "lng": 125.727539,
+    "wikiLink": "Timor-Leste",
+    "flag": "🇹🇱",
+    "questions": []
+  },
+  {
+    "name": "Ecuador",
+    "type": "country",
+    "lat": -1.831239,
+    "lng": -78.183406,
+    "wikiLink": "Ecuador",
+    "flag": "🇪🇨",
+    "questions": []
+  },
+  {
+    "name": "Egypt",
+    "type": "country",
+    "lat": 26.820553,
+    "lng": 30.802498,
+    "wikiLink": "Egypt",
+    "flag": "🇪🇬",
+    "questions": []
+  },
+  {
+    "name": "El Salvador",
+    "type": "country",
+    "lat": 13.794185,
+    "lng": -88.89653,
+    "wikiLink": "El_Salvador",
+    "flag": "🇸🇻",
+    "questions": []
+  },
+  {
+    "name": "Eritrea",
+    "type": "country",
+    "lat": 15.179384,
+    "lng": 39.782334,
+    "wikiLink": "Eritrea",
+    "flag": "🇪🇷",
+    "questions": []
+  },
+  {
+    "name": "Estonia",
+    "type": "country",
+    "lat": 58.595272,
+    "lng": 25.013607,
+    "wikiLink": "Estonia",
+    "flag": "🇪🇪",
+    "questions": []
+  },
+  {
+    "name": "Ethiopia",
+    "type": "country",
+    "lat": 9.145,
+    "lng": 40.489673,
+    "wikiLink": "Ethiopia",
+    "flag": "🇪🇹",
+    "questions": []
+  },
+  {
+    "name": "Fiji",
+    "type": "country",
+    "lat": -17.713371,
+    "lng": 178.065032,
+    "wikiLink": "Fiji",
+    "flag": "🇫🇯",
+    "questions": []
+  },
+  {
+    "name": "Finland",
+    "type": "country",
+    "lat": 61.92411,
+    "lng": 25.748151,
+    "wikiLink": "Finland",
+    "flag": "🇫🇮",
+    "questions": []
+  },
+  {
+    "name": "France",
+    "type": "country",
+    "lat": 46.227638,
+    "lng": 2.213749,
+    "wikiLink": "France",
+    "flag": "🇫🇷",
+    "questions": []
+  },
+  {
+    "name": "Gabon",
+    "type": "country",
+    "lat": -0.803689,
+    "lng": 11.609444,
+    "wikiLink": "Gabon",
+    "flag": "🇬🇦",
+    "questions": []
+  },
+  {
+    "name": "The Gambia",
+    "type": "country",
+    "lat": 13.443182,
+    "lng": -15.310139,
+    "wikiLink": "The_Gambia",
+    "flag": "🇬🇲",
+    "questions": []
+  },
+  {
+    "name": "Georgia",
+    "type": "country",
+    "lat": 42.315407,
+    "lng": 43.356892,
+    "wikiLink": "Georgia_(country)",
+    "flag": "🇬🇪",
+    "questions": []
+  },
+  {
+    "name": "Germany",
+    "type": "country",
+    "lat": 51.165691,
+    "lng": 10.451526,
+    "wikiLink": "Germany",
+    "flag": "🇩🇪",
+    "questions": []
+  },
+  {
+    "name": "Ghana",
+    "type": "country",
+    "lat": 7.946527,
+    "lng": -1.023194,
+    "wikiLink": "Ghana",
+    "flag": "🇬🇭",
+    "questions": []
+  },
+  {
+    "name": "Greece",
+    "type": "country",
+    "lat": 39.074208,
+    "lng": 21.824312,
+    "wikiLink": "Greece",
+    "flag": "🇬🇷",
+    "questions": []
+  },
+  {
+    "name": "Grenada",
+    "type": "country",
+    "lat": 12.1165,
+    "lng": -61.679,
+    "wikiLink": "Grenada",
+    "flag": "🇬🇩",
+    "questions": []
+  },
+  {
+    "name": "Guatemala",
+    "type": "country",
+    "lat": 15.783471,
+    "lng": -90.230759,
+    "wikiLink": "Guatemala",
+    "flag": "🇬🇹",
+    "questions": []
+  },
+  {
+    "name": "Guinea",
+    "type": "country",
+    "lat": 9.945587,
+    "lng": -9.696645,
+    "wikiLink": "Guinea",
+    "flag": "🇬🇳",
+    "questions": []
+  },
+  {
+    "name": "Guinea-Bissau",
+    "type": "country",
+    "lat": 11.803749,
+    "lng": -15.180413,
+    "wikiLink": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "questions": []
+  },
+  {
+    "name": "Guyana",
+    "type": "country",
+    "lat": 4.860416,
+    "lng": -58.93018,
+    "wikiLink": "Guyana",
+    "flag": "🇬🇾",
+    "questions": []
+  },
+  {
+    "name": "Haiti",
+    "type": "country",
+    "lat": 18.971187,
+    "lng": -72.285215,
+    "wikiLink": "Haiti",
+    "flag": "🇭🇹",
+    "questions": []
+  },
+  {
+    "name": "Honduras",
+    "type": "country",
+    "lat": 15.199999,
+    "lng": -86.241905,
+    "wikiLink": "Honduras",
+    "flag": "🇭🇳",
+    "questions": []
+  },
+  {
+    "name": "Hungary",
+    "type": "country",
+    "lat": 47.162494,
+    "lng": 19.503304,
+    "wikiLink": "Hungary",
+    "flag": "🇭🇺",
+    "questions": []
+  },
+  {
+    "name": "Iceland",
+    "type": "country",
+    "lat": 64.963051,
+    "lng": -19.020835,
+    "wikiLink": "Iceland",
+    "flag": "🇮🇸",
+    "questions": []
+  },
+  {
+    "name": "India",
+    "type": "country",
+    "lat": 20.593684,
+    "lng": 78.96288,
+    "wikiLink": "India",
+    "flag": "🇮🇳",
+    "questions": []
+  },
+  {
+    "name": "Indonesia",
+    "type": "country",
+    "lat": -0.789275,
+    "lng": 113.921327,
+    "wikiLink": "Indonesia",
+    "flag": "🇮🇩",
+    "questions": []
+  },
+  {
+    "name": "Iran",
+    "type": "country",
+    "lat": 32.427908,
+    "lng": 53.688046,
+    "wikiLink": "Iran",
+    "flag": "🇮🇷",
+    "questions": []
+  },
+  {
+    "name": "Iraq",
+    "type": "country",
+    "lat": 33.223191,
+    "lng": 43.679291,
+    "wikiLink": "Iraq",
+    "flag": "🇮🇶",
+    "questions": []
+  },
+  {
+    "name": "Ireland",
+    "type": "country",
+    "lat": 53.41291,
+    "lng": -8.24389,
+    "wikiLink": "Ireland",
+    "flag": "🇮🇪",
+    "questions": []
+  },
+  {
+    "name": "Israel",
+    "type": "country",
+    "lat": 31.046051,
+    "lng": 34.851612,
+    "wikiLink": "Israel",
+    "flag": "🇮🇱",
+    "questions": []
+  },
+  {
+    "name": "Italy",
+    "type": "country",
+    "lat": 41.87194,
+    "lng": 12.56738,
+    "wikiLink": "Italy",
+    "flag": "🇮🇹",
+    "questions": []
+  },
+  {
+    "name": "Jamaica",
+    "type": "country",
+    "lat": 18.109581,
+    "lng": -77.297508,
+    "wikiLink": "Jamaica",
+    "flag": "🇯🇲",
+    "questions": []
+  },
+  {
+    "name": "Japan",
+    "type": "country",
+    "lat": 36.204824,
+    "lng": 138.252924,
+    "wikiLink": "Japan",
+    "flag": "🇯🇵",
+    "questions": []
+  },
+  {
+    "name": "Jordan",
+    "type": "country",
+    "lat": 30.585164,
+    "lng": 36.238414,
+    "wikiLink": "Jordan",
+    "flag": "🇯🇴",
+    "questions": []
+  },
+  {
+    "name": "Kazakhstan",
+    "type": "country",
+    "lat": 48.019573,
+    "lng": 66.923684,
+    "wikiLink": "Kazakhstan",
+    "flag": "🇰🇿",
+    "questions": []
+  },
+  {
+    "name": "Kenya",
+    "type": "country",
+    "lat": -0.023559,
+    "lng": 37.906193,
+    "wikiLink": "Kenya",
+    "flag": "🇰🇪",
+    "questions": []
+  },
+  {
+    "name": "Kiribati",
+    "type": "country",
+    "lat": 1.870919,
+    "lng": -157.362601,
+    "wikiLink": "Kiribati",
+    "flag": "🇰🇮",
+    "questions": []
+  },
+  {
+    "name": "North Korea",
+    "type": "country",
+    "lat": 40.339852,
+    "lng": 127.510093,
+    "wikiLink": "North_Korea",
+    "flag": "🇰🇵",
+    "questions": []
+  },
+  {
+    "name": "South Korea",
+    "type": "country",
+    "lat": 35.907757,
+    "lng": 127.766922,
+    "wikiLink": "South_Korea",
+    "flag": "🇰🇷",
+    "questions": []
+  },
+  {
+    "name": "Kosovo",
+    "type": "country",
+    "lat": 42.581372,
+    "lng": 20.889336,
+    "wikiLink": "Kosovo",
+    "flag": "🇽🇰",
+    "questions": []
+  },
+  {
+    "name": "Kuwait",
+    "type": "country",
+    "lat": 29.31166,
+    "lng": 47.481766,
+    "wikiLink": "Kuwait",
+    "flag": "🇰🇼",
+    "questions": []
+  },
+  {
+    "name": "Kyrgyzstan",
+    "type": "country",
+    "lat": 41.20438,
+    "lng": 74.766098,
+    "wikiLink": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "questions": []
+  },
+  {
+    "name": "Laos",
+    "type": "country",
+    "lat": 19.85627,
+    "lng": 102.495496,
+    "wikiLink": "Laos",
+    "flag": "🇱🇦",
+    "questions": []
+  },
+  {
+    "name": "Latvia",
+    "type": "country",
+    "lat": 56.879635,
+    "lng": 24.603189,
+    "wikiLink": "Latvia",
+    "flag": "🇱🇻",
+    "questions": []
+  },
+  {
+    "name": "Lebanon",
+    "type": "country",
+    "lat": 33.854721,
+    "lng": 35.862285,
+    "wikiLink": "Lebanon",
+    "flag": "🇱🇧",
+    "questions": []
+  },
+  {
+    "name": "Lesotho",
+    "type": "country",
+    "lat": -29.609988,
+    "lng": 28.233608,
+    "wikiLink": "Lesotho",
+    "flag": "🇱🇸",
+    "questions": []
+  },
+  {
+    "name": "Liberia",
+    "type": "country",
+    "lat": 6.428055,
+    "lng": -9.429499,
+    "wikiLink": "Liberia",
+    "flag": "🇱🇷",
+    "questions": []
+  },
+  {
+    "name": "Libya",
+    "type": "country",
+    "lat": 26.3351,
+    "lng": 17.228331,
+    "wikiLink": "Libya",
+    "flag": "🇱🇾",
+    "questions": []
+  },
+  {
+    "name": "Liechtenstein",
+    "type": "country",
+    "lat": 47.166,
+    "lng": 9.555373,
+    "wikiLink": "Liechtenstein",
+    "flag": "🇱🇮",
+    "questions": []
+  },
+  {
+    "name": "Lithuania",
+    "type": "country",
+    "lat": 55.169438,
+    "lng": 23.881275,
+    "wikiLink": "Lithuania",
+    "flag": "🇱🇹",
+    "questions": []
+  },
+  {
+    "name": "Luxembourg",
+    "type": "country",
+    "lat": 49.815273,
+    "lng": 6.129583,
+    "wikiLink": "Luxembourg",
+    "flag": "🇱🇺",
+    "questions": []
+  },
+  {
+    "name": "Madagascar",
+    "type": "country",
+    "lat": -18.766947,
+    "lng": 46.869107,
+    "wikiLink": "Madagascar",
+    "flag": "🇲🇬",
+    "questions": []
+  },
+  {
+    "name": "Malawi",
+    "type": "country",
+    "lat": -13.254308,
+    "lng": 34.301525,
+    "wikiLink": "Malawi",
+    "flag": "🇲🇼",
+    "questions": []
+  },
+  {
+    "name": "Malaysia",
+    "type": "country",
+    "lat": 4.210484,
+    "lng": 101.975766,
+    "wikiLink": "Malaysia",
+    "flag": "🇲🇾",
+    "questions": []
+  },
+  {
+    "name": "Maldives",
+    "type": "country",
+    "lat": 1.977247,
+    "lng": 73.536103,
+    "wikiLink": "Maldives",
+    "flag": "🇲🇻",
+    "questions": []
+  },
+  {
+    "name": "Mali",
+    "type": "country",
+    "lat": 17.570692,
+    "lng": -3.996166,
+    "wikiLink": "Mali",
+    "flag": "🇲🇱",
+    "questions": []
+  },
+  {
+    "name": "Malta",
+    "type": "country",
+    "lat": 35.937496,
+    "lng": 14.375416,
+    "wikiLink": "Malta",
+    "flag": "🇲🇹",
+    "questions": []
+  },
+  {
+    "name": "Marshall Islands",
+    "type": "country",
+    "lat": 7.131474,
+    "lng": 171.184478,
+    "wikiLink": "Marshall_Islands",
+    "flag": "🇲🇭",
+    "questions": []
+  },
+  {
+    "name": "Mauritania",
+    "type": "country",
+    "lat": 21.00789,
+    "lng": -10.940835,
+    "wikiLink": "Mauritania",
+    "flag": "🇲🇷",
+    "questions": []
+  },
+  {
+    "name": "Mauritius",
+    "type": "country",
+    "lat": -20.348404,
+    "lng": 57.552152,
+    "wikiLink": "Mauritius",
+    "flag": "🇲🇺",
+    "questions": []
+  },
+  {
+    "name": "Mexico",
+    "type": "country",
+    "lat": 23.634501,
+    "lng": -102.552784,
+    "wikiLink": "Mexico",
+    "flag": "🇲🇽",
+    "questions": []
+  },
+  {
+    "name": "Micronesia",
+    "type": "country",
+    "lat": 6.887351,
+    "lng": 158.215072,
+    "wikiLink": "Micronesia",
+    "flag": "🇫🇲",
+    "questions": []
+  },
+  {
+    "name": "Moldova",
+    "type": "country",
+    "lat": 47.411631,
+    "lng": 28.369885,
+    "wikiLink": "Moldova",
+    "flag": "🇲🇩",
+    "questions": []
+  },
+  {
+    "name": "Monaco",
+    "type": "country",
+    "lat": 43.738418,
+    "lng": 7.424616,
+    "wikiLink": "Monaco",
+    "flag": "🇲🇨",
+    "questions": []
+  },
+  {
+    "name": "Mongolia",
+    "type": "country",
+    "lat": 46.862496,
+    "lng": 103.846656,
+    "wikiLink": "Mongolia",
+    "flag": "🇲🇳",
+    "questions": []
+  },
+  {
+    "name": "Montenegro",
+    "type": "country",
+    "lat": 42.708678,
+    "lng": 19.37439,
+    "wikiLink": "Montenegro",
+    "flag": "🇲🇪",
+    "questions": []
+  },
+  {
+    "name": "Morocco",
+    "type": "country",
+    "lat": 31.791702,
+    "lng": -7.09262,
+    "wikiLink": "Morocco",
+    "flag": "🇲🇦",
+    "questions": []
+  },
+  {
+    "name": "Mozambique",
+    "type": "country",
+    "lat": -18.665695,
+    "lng": 35.529562,
+    "wikiLink": "Mozambique",
+    "flag": "🇲🇿",
+    "questions": []
+  },
+  {
+    "name": "Myanmar",
+    "type": "country",
+    "lat": 21.916200,
+    "lng": 95.956000,
+    "wikiLink": "Myanmar",
+    "flag": "🇲🇲",
+    "questions": []
+  },
+  {
+    "name": "Namibia",
+    "type": "country",
+    "lat": -22.95764,
+    "lng": 18.49041,
+    "wikiLink": "Namibia",
+    "flag": "🇳🇦",
+    "questions": []
+  },
+  {
+    "name": "Nauru",
+    "type": "country",
+    "lat": -0.522778,
+    "lng": 166.931503,
+    "wikiLink": "Nauru",
+    "flag": "🇳🇷",
+    "questions": []
+  },
+  {
+    "name": "Nepal",
+    "type": "country",
+    "lat": 28.394857,
+    "lng": 84.124008,
+    "wikiLink": "Nepal",
+    "flag": "🇳🇵",
+    "questions": []
+  },
+  {
+    "name": "The Netherlands",
+    "type": "country",
+    "lat": 52.132633,
+    "lng": 5.291266,
+    "wikiLink": "Netherlands",
+    "flag": "🇳🇱",
+    "questions": []
+  },
+  {
+    "name": "New Zealand",
+    "type": "country",
+    "lat": -40.900557,
+    "lng": 174.885971,
+    "wikiLink": "New_Zealand",
+    "flag": "🇳🇿",
+    "questions": []
+  },
+  {
+    "name": "Nicaragua",
+    "type": "country",
+    "lat": 12.865416,
+    "lng": -85.207229,
+    "wikiLink": "Nicaragua",
+    "flag": "🇳🇮",
+    "questions": []
+  },
+  {
+    "name": "Niger",
+    "type": "country",
+    "lat": 17.607789,
+    "lng": 8.081666,
+    "wikiLink": "Niger",
+    "flag": "🇳🇪",
+    "questions": []
+  },
+  {
+    "name": "Nigeria",
+    "type": "country",
+    "lat": 9.081999,
+    "lng": 8.675277,
+    "wikiLink": "Nigeria",
+    "flag": "🇳🇬",
+    "questions": []
+  },
+  {
+    "name": "Norway",
+    "type": "country",
+    "lat": 60.472024,
+    "lng": 8.468946,
+    "wikiLink": "Norway",
+    "flag": "🇳🇴",
+    "questions": []
+  },
+  {
+    "name": "Oman",
+    "type": "country",
+    "lat": 21.512583,
+    "lng": 55.923255,
+    "wikiLink": "Oman",
+    "flag": "🇴🇲",
+    "questions": []
+  },
+  {
+    "name": "Pakistan",
+    "type": "country",
+    "lat": 30.375321,
+    "lng": 69.345116,
+    "wikiLink": "Pakistan",
+    "flag": "🇵🇰",
+    "questions": []
+  },
+  {
+    "name": "Palau",
+    "type": "country",
+    "lat": 7.51498,
+    "lng": 134.58252,
+    "wikiLink": "Palau",
+    "flag": "🇵🇼",
+    "questions": []
+  },
+  {
+    "name": "Panama",
+    "type": "country",
+    "lat": 8.537981,
+    "lng": -80.782127,
+    "wikiLink": "Panama",
+    "flag": "🇵🇦",
+    "questions": []
+  },
+  {
+    "name": "Papua New Guinea",
+    "type": "country",
+    "lat": -6.314993,
+    "lng": 143.95555,
+    "wikiLink": "Papua_New_Guinea",
+    "flag": "🇵🇬",
+    "questions": []
+  },
+  {
+    "name": "Paraguay",
+    "type": "country",
+    "lat": -23.442503,
+    "lng": -58.443832,
+    "wikiLink": "Paraguay",
+    "flag": "🇵🇾",
+    "questions": []
+  },
+  {
+    "name": "Peru",
+    "type": "country",
+    "lat": -9.189967,
+    "lng": -75.015152,
+    "wikiLink": "Peru",
+    "flag": "🇵🇪",
+    "questions": []
+  },
+  {
+    "name": "The Philippines",
+    "type": "country",
+    "lat": 12.879721,
+    "lng": 121.774017,
+    "wikiLink": "Philippines",
+    "flag": "🇵🇭",
+    "questions": []
+  },
+  {
+    "name": "Poland",
+    "type": "country",
+    "lat": 51.919438,
+    "lng": 19.145136,
+    "wikiLink": "Poland",
+    "flag": "🇵🇱",
+    "questions": []
+  },
+  {
+    "name": "Portugal",
+    "type": "country",
+    "lat": 39.399872,
+    "lng": -8.224454,
+    "wikiLink": "Portugal",
+    "flag": "🇵🇹",
+    "questions": []
+  },
+  {
+    "name": "Qatar",
+    "type": "country",
+    "lat": 25.354826,
+    "lng": 51.183884,
+    "wikiLink": "Qatar",
+    "flag": "🇶🇦",
+    "questions": []
+  },
+  {
+    "name": "Romania",
+    "type": "country",
+    "lat": 45.943161,
+    "lng": 24.96676,
+    "wikiLink": "Romania",
+    "flag": "🇷🇴",
+    "questions": []
+  },
+  {
+    "name": "Russia",
+    "type": "country",
+    "lat": 61.52401,
+    "lng": 105.318756,
+    "wikiLink": "Russia",
+    "flag": "🇷🇺",
+    "questions": []
+  },
+  {
+    "name": "Rwanda",
+    "type": "country",
+    "lat": -1.940278,
+    "lng": 29.873888,
+    "wikiLink": "Rwanda",
+    "flag": "🇷🇼",
+    "questions": []
+  },
+  {
+    "name": "Samoa",
+    "type": "country",
+    "lat": -13.759029,
+    "lng": -172.104629,
+    "wikiLink": "Samoa",
+    "flag": "🇼🇸",
+    "questions": []
+  },
+  {
+    "name": "San Marino",
+    "type": "country",
+    "lat": 43.94236,
+    "lng": 12.457777,
+    "wikiLink": "San_Marino",
+    "flag": "🇸🇲",
+    "questions": []
+  },
+  {
+    "name": "Saudi Arabia",
+    "type": "country",
+    "lat": 23.885942,
+    "lng": 45.079162,
+    "wikiLink": "Saudi_Arabia",
+    "flag": "🇸🇦",
+    "questions": []
+  },
+  {
+    "name": "Senegal",
+    "type": "country",
+    "lat": 14.497401,
+    "lng": -14.452362,
+    "wikiLink": "Senegal",
+    "flag": "🇸🇳",
+    "questions": []
+  },
+  {
+    "name": "Serbia",
+    "type": "country",
+    "lat": 44.016521,
+    "lng": 21.005859,
+    "wikiLink": "Serbia",
+    "flag": "🇷🇸",
+    "questions": []
+  },
+  {
+    "name": "Seychelles",
+    "type": "country",
+    "lat": -4.679574,
+    "lng": 55.491977,
+    "wikiLink": "Seychelles",
+    "flag": "🇸🇨",
+    "questions": []
+  },
+  {
+    "name": "Sierra Leone",
+    "type": "country",
+    "lat": 8.460555,
+    "lng": -11.779889,
+    "wikiLink": "Sierra_Leone",
+    "flag": "🇸🇱",
+    "questions": []
+  },
+  {
+    "name": "Singapore",
+    "type": "country",
+    "lat": 1.352083,
+    "lng": 103.819836,
+    "wikiLink": "Singapore",
+    "flag": "🇸🇬",
+    "questions": []
+  },
+  {
+    "name": "Slovakia",
+    "type": "country",
+    "lat": 48.669026,
+    "lng": 19.699024,
+    "wikiLink": "Slovakia",
+    "flag": "🇸🇰",
+    "questions": []
+  },
+  {
+    "name": "Slovenia",
+    "type": "country",
+    "lat": 46.151241,
+    "lng": 14.995463,
+    "wikiLink": "Slovenia",
+    "flag": "🇸🇮",
+    "questions": []
+  },
+  {
+    "name": "Solomon Islands",
+    "type": "country",
+    "lat": -9.64571,
+    "lng": 160.156194,
+    "wikiLink": "Solomon_Islands",
+    "flag": "🇸🇧",
+    "questions": []
+  },
+  {
+    "name": "Somalia",
+    "type": "country",
+    "lat": 5.152149,
+    "lng": 46.199616,
+    "wikiLink": "Somalia",
+    "flag": "🇸🇴",
+    "questions": []
+  },
+  {
+    "name": "South Africa",
+    "type": "country",
+    "lat": -30.559482,
+    "lng": 22.937506,
+    "wikiLink": "South_Africa",
+    "flag": "🇿🇦",
+    "questions": []
+  },
+  {
+    "name": "South Sudan",
+    "type": "country",
+    "lat": 7.963092,
+    "lng": 30.15893,
+    "wikiLink": "South_Sudan",
+    "flag": "🇸🇸",
+    "questions": []
+  },
+  {
+    "name": "Spain",
+    "type": "country",
+    "lat": 40.463667,
+    "lng": -3.74922,
+    "wikiLink": "Spain",
+    "flag": "🇪🇸",
+    "questions": []
+  },
+  {
+    "name": "Sri Lanka",
+    "type": "country",
+    "lat": 7.873054,
+    "lng": 80.771797,
+    "wikiLink": "Sri_Lanka",
+    "flag": "🇱🇰",
+    "questions": []
+  },
+  {
+    "name": "Saint Lucia",
+    "type": "country",
+    "lat": 13.909444,
+    "lng": -60.978893,
+    "wikiLink": "Saint_Lucia",
+    "flag": "🇱🇨",
+    "questions": []
+  },
+  {
+    "name": "Sudan",
+    "type": "country",
+    "lat": 12.862807,
+    "lng": 30.217636,
+    "wikiLink": "Sudan",
+    "flag": "🇸🇩",
+    "questions": []
+  },
+  {
+    "name": "Suriname",
+    "type": "country",
+    "lat": 3.919305,
+    "lng": -56.027783,
+    "wikiLink": "Suriname",
+    "flag": "🇸🇷",
+    "questions": []
+  },
+  {
+    "name": "Eswatini",
+    "type": "country",
+    "lat": -26.522503,
+    "lng": 31.465866,
+    "wikiLink": "Eswatini",
+    "flag": "🇸🇿",
+    "questions": []
+  },
+  {
+    "name": "Sweden",
+    "type": "country",
+    "lat": 60.128161,
+    "lng": 18.643501,
+    "wikiLink": "Sweden",
+    "flag": "🇸🇪",
+    "questions": []
+  },
+  {
+    "name": "Switzerland",
+    "type": "country",
+    "lat": 46.818188,
+    "lng": 8.227512,
+    "wikiLink": "Switzerland",
+    "flag": "🇨🇭",
+    "questions": []
+  },
+  {
+    "name": "Syria",
+    "type": "country",
+    "lat": 34.802075,
+    "lng": 38.996815,
+    "wikiLink": "Syria",
+    "flag": "🇸🇾",
+    "questions": []
+  },
+  {
+    "name": "Taiwan",
+    "type": "country",
+    "lat": 23.69781,
+    "lng": 120.960515,
+    "wikiLink": "Taiwan",
+    "flag": "🇹🇼",
+    "questions": []
+  },
+  {
+    "name": "Tajikistan",
+    "type": "country",
+    "lat": 38.861034,
+    "lng": 71.276093,
+    "wikiLink": "Tajikistan",
+    "flag": "🇹🇯",
+    "questions": []
+  },
+  {
+    "name": "Tanzania",
+    "type": "country",
+    "lat": -6.369028,
+    "lng": 34.888822,
+    "wikiLink": "Tanzania",
+    "flag": "🇹🇿",
+    "questions": []
+  },
+  {
+    "name": "Thailand",
+    "type": "country",
+    "lat": 15.870032,
+    "lng": 100.992541,
+    "wikiLink": "Thailand",
+    "flag": "🇹🇭",
+    "questions": []
+  },
+  {
+    "name": "Togo",
+    "type": "country",
+    "lat": 8.619543,
+    "lng": 0.824782,
+    "wikiLink": "Togo",
+    "flag": "🇹🇬",
+    "questions": []
+  },
+  {
+    "name": "Tonga",
+    "type": "country",
+    "lat": -21.178986,
+    "lng": -175.198242,
+    "wikiLink": "Tonga",
+    "flag": "🇹🇴",
+    "questions": []
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "type": "country",
+    "lat": 10.691800,
+    "lng": -61.222500,
+    "wikiLink": "Trinidad_and_Tobago",
+    "flag": "🇹🇹",
+    "questions": []
+  },
+  {
+    "name": "Tunisia",
+    "type": "country",
+    "lat": 33.886917,
+    "lng": 9.537499,
+    "wikiLink": "Tunisia",
+    "flag": "🇹🇳",
+    "questions": []
+  },
+  {
+    "name": "Turkey",
+    "type": "country",
+    "lat": 38.963745,
+    "lng": 35.243322,
+    "wikiLink": "Turkey",
+    "flag": "🇹🇷",
+    "questions": []
+  },
+  {
+    "name": "Turkmenistan",
+    "type": "country",
+    "lat": 38.969719,
+    "lng": 59.556278,
+    "wikiLink": "Turkmenistan",
+    "flag": "🇹🇲",
+    "questions": []
+  },
+  {
+    "name": "Tuvalu",
+    "type": "country",
+    "lat": -7.478442,
+    "lng": 178.679921,
+    "wikiLink": "Tuvalu",
+    "flag": "🇹🇻",
+    "questions": []
+  },
+  {
+    "name": "Uganda",
+    "type": "country",
+    "lat": 1.373333,
+    "lng": 32.290275,
+    "wikiLink": "Uganda",
+    "flag": "🇺🇬",
+    "questions": []
+  },
+  {
+    "name": "Ukraine",
+    "type": "country",
+    "lat": 48.379433,
+    "lng": 31.16558,
+    "wikiLink": "Ukraine",
+    "flag": "🇺🇦",
+    "questions": []
+  },
+  {
+    "name": "United Arab Emirates",
+    "type": "country",
+    "lat": 23.424100,
+    "lng": 53.847800,
+    "wikiLink": "United_Arab_Emirates",
+    "flag": "🇦🇪",
+    "questions": []
+  },
+  {
+    "name": "United Kingdom",
+    "type": "country",
+    "lat": 55.378051,
+    "lng": -3.435973,
+    "wikiLink": "United_Kingdom",
+    "flag": "🇬🇧",
+    "questions": []
+  },
+  {
+    "name": "United States",
+    "type": "country",
+    "lat": 39.50024,
+    "lng": -98.350891,
+    "wikiLink": "United_States",
+    "flag": "🇺🇸",
+    "questions": []
+  },
+  {
+    "name": "Uruguay",
+    "type": "country",
+    "lat": -32.522779,
+    "lng": -55.765835,
+    "wikiLink": "Uruguay",
+    "flag": "🇺🇾",
+    "questions": []
+  },
+  {
+    "name": "Uzbekistan",
+    "type": "country",
+    "lat": 41.377491,
+    "lng": 64.585262,
+    "wikiLink": "Uzbekistan",
+    "flag": "🇺🇿",
+    "questions": []
+  },
+  {
+    "name": "Vanuatu",
+    "type": "country",
+    "lat": -15.376706,
+    "lng": 166.959158,
+    "wikiLink": "Vanuatu",
+    "flag": "🇻🇺",
+    "questions": []
+  },
+  {
+    "name": "Vatican City",
+    "type": "country",
+    "lat": 41.902916,
+    "lng": 12.453389,
+    "wikiLink": "Vatican_City",
+    "flag": "🇻🇦",
+    "questions": []
+  },
+  {
+    "name": "Venezuela",
+    "type": "country",
+    "lat": 6.42375,
+    "lng": -66.58973,
+    "wikiLink": "Venezuela",
+    "flag": "🇻🇪",
+    "questions": []
+  },
+  {
+    "name": "Vietnam",
+    "type": "country",
+    "lat": 14.058324,
+    "lng": 108.277199,
+    "wikiLink": "Vietnam",
+    "flag": "🇻🇳",
+    "questions": []
+  },
+  {
+    "name": "Yemen",
+    "type": "country",
+    "lat": 15.552727,
+    "lng": 48.516388,
+    "wikiLink": "Yemen",
+    "flag": "🇾🇪",
+    "questions": []
+  },
+  {
+    "name": "Zambia",
+    "type": "country",
+    "lat": -13.133897,
+    "lng": 27.849332,
+    "wikiLink": "Zambia",
+    "flag": "🇿🇲",
+    "questions": []
+  },
+  {
+    "name": "Zimbabwe",
+    "type": "country",
+    "lat": -19.015438,
+    "lng": 29.154857,
+    "wikiLink": "Zimbabwe",
+    "flag": "🇿🇼",
+    "questions": []
+  },
+  {
+    "name": "Alaska",
+    "type": "state",
+    "country": "US",
+    "lat": 61.385,
+    "lng": -152.2683,
+    "wikiLink": "Alaska",
+    "questions": []
+  },
+  {
+    "name": "Alabama",
+    "type": "state",
+    "country": "US",
+    "lat": 32.799,
+    "lng": -86.8073,
+    "wikiLink": "Alabama",
+    "questions": []
+  },
+  {
+    "name": "Arkansas",
+    "type": "state",
+    "country": "US",
+    "lat": 34.9513,
+    "lng": -92.3809,
+    "wikiLink": "Arkansas",
+    "questions": []
+  },
+  {
+    "name": "Arizona",
+    "type": "state",
+    "country": "US",
+    "lat": 33.7712,
+    "lng": -111.3877,
+    "wikiLink": "Arizona",
+    "questions": []
+  },
+  {
+    "name": "California",
+    "type": "state",
+    "country": "US",
+    "lat": 36.17,
+    "lng": -119.7462,
+    "wikiLink": "California",
+    "questions": []
+  },
+  {
+    "name": "Colorado",
+    "type": "state",
+    "country": "US",
+    "lat": 39.0646,
+    "lng": -105.3272,
+    "wikiLink": "Colorado",
+    "questions": []
+  },
+  {
+    "name": "Connecticut",
+    "type": "state",
+    "country": "US",
+    "lat": 41.5834,
+    "lng": -72.7622,
+    "wikiLink": "Connecticut",
+    "questions": []
+  },
+  {
+    "name": "Delaware",
+    "type": "state",
+    "country": "US",
+    "lat": 39.3498,
+    "lng": -75.5148,
+    "wikiLink": "Delaware",
+    "questions": []
+  },
+  {
+    "name": "Florida",
+    "type": "state",
+    "country": "US",
+    "lat": 27.8333,
+    "lng": -81.717,
+    "wikiLink": "Florida",
+    "questions": []
+  },
+  {
+    "name": "Georgia",
+    "type": "state",
+    "country": "US",
+    "lat": 32.9866,
+    "lng": -83.6487,
+    "wikiLink": "Georgia",
+    "questions": []
+  },
+  {
+    "name": "Hawaii",
+    "type": "state",
+    "country": "US",
+    "lat": 21.1098,
+    "lng": -157.5311,
+    "wikiLink": "Hawaii",
+    "questions": []
+  },
+  {
+    "name": "Iowa",
+    "type": "state",
+    "country": "US",
+    "lat": 42.0046,
+    "lng": -93.214,
+    "wikiLink": "Iowa",
+    "questions": []
+  },
+  {
+    "name": "Idaho",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2394,
+    "lng": -114.5103,
+    "wikiLink": "Idaho",
+    "questions": []
+  },
+  {
+    "name": "Illinois",
+    "type": "state",
+    "country": "US",
+    "lat": 40.3363,
+    "lng": -89.0022,
+    "wikiLink": "Illinois",
+    "questions": []
+  },
+  {
+    "name": "Indiana",
+    "type": "state",
+    "country": "US",
+    "lat": 39.8647,
+    "lng": -86.2604,
+    "wikiLink": "Indiana",
+    "questions": []
+  },
+  {
+    "name": "Kansas",
+    "type": "state",
+    "country": "US",
+    "lat": 38.5111,
+    "lng": -96.8005,
+    "wikiLink": "Kansas",
+    "questions": []
+  },
+  {
+    "name": "Kentucky",
+    "type": "state",
+    "country": "US",
+    "lat": 37.669,
+    "lng": -84.6514,
+    "wikiLink": "Kentucky",
+    "questions": []
+  },
+  {
+    "name": "Louisiana",
+    "type": "state",
+    "country": "US",
+    "lat": 31.1801,
+    "lng": -91.8749,
+    "wikiLink": "Louisiana",
+    "questions": []
+  },
+  {
+    "name": "Massachusetts",
+    "type": "state",
+    "country": "US",
+    "lat": 42.2373,
+    "lng": -71.5314,
+    "wikiLink": "Massachusetts",
+    "questions": []
+  },
+  {
+    "name": "Maryland",
+    "type": "state",
+    "country": "US",
+    "lat": 39.0724,
+    "lng": -76.7902,
+    "wikiLink": "Maryland",
+    "questions": []
+  },
+  {
+    "name": "Maine",
+    "type": "state",
+    "country": "US",
+    "lat": 44.6074,
+    "lng": -69.3977,
+    "wikiLink": "Maine",
+    "questions": []
+  },
+  {
+    "name": "Michigan",
+    "type": "state",
+    "country": "US",
+    "lat": 43.3504,
+    "lng": -84.5603,
+    "wikiLink": "Michigan",
+    "questions": []
+  },
+  {
+    "name": "Minnesota",
+    "type": "state",
+    "country": "US",
+    "lat": 45.7326,
+    "lng": -93.9196,
+    "wikiLink": "Minnesota",
+    "questions": []
+  },
+  {
+    "name": "Missouri",
+    "type": "state",
+    "country": "US",
+    "lat": 38.4623,
+    "lng": -92.302,
+    "wikiLink": "Missouri",
+    "questions": []
+  },
+  {
+    "name": "Mississippi",
+    "type": "state",
+    "country": "US",
+    "lat": 32.7673,
+    "lng": -89.6812,
+    "wikiLink": "Mississippi",
+    "questions": []
+  },
+  {
+    "name": "Montana",
+    "type": "state",
+    "country": "US",
+    "lat": 46.9048,
+    "lng": -110.3261,
+    "wikiLink": "Montana",
+    "questions": []
+  },
+  {
+    "name": "North Carolina",
+    "type": "state",
+    "country": "US",
+    "lat": 35.6411,
+    "lng": -79.8431,
+    "wikiLink": "North Carolina",
+    "questions": []
+  },
+  {
+    "name": "North Dakota",
+    "type": "state",
+    "country": "US",
+    "lat": 47.5362,
+    "lng": -99.793,
+    "wikiLink": "North Dakota",
+    "questions": []
+  },
+  {
+    "name": "Nebraska",
+    "type": "state",
+    "country": "US",
+    "lat": 41.1289,
+    "lng": -98.2883,
+    "wikiLink": "Nebraska",
+    "questions": []
+  },
+  {
+    "name": "New Hampshire",
+    "type": "state",
+    "country": "US",
+    "lat": 43.4108,
+    "lng": -71.5653,
+    "wikiLink": "New Hampshire",
+    "questions": []
+  },
+  {
+    "name": "New Jersey",
+    "type": "state",
+    "country": "US",
+    "lat": 40.314,
+    "lng": -74.5089,
+    "wikiLink": "New Jersey",
+    "questions": []
+  },
+  {
+    "name": "New Mexico",
+    "type": "state",
+    "country": "US",
+    "lat": 34.8375,
+    "lng": -106.2371,
+    "wikiLink": "New Mexico",
+    "questions": []
+  },
+  {
+    "name": "Nevada",
+    "type": "state",
+    "country": "US",
+    "lat": 38.4199,
+    "lng": -117.1219,
+    "wikiLink": "Nevada",
+    "questions": []
+  },
+  {
+    "name": "New York",
+    "type": "state",
+    "country": "US",
+    "lat": 42.1497,
+    "lng": -74.9384,
+    "wikiLink": "New York",
+    "questions": []
+  },
+  {
+    "name": "Ohio",
+    "type": "state",
+    "country": "US",
+    "lat": 40.3736,
+    "lng": -82.7755,
+    "wikiLink": "Ohio",
+    "questions": []
+  },
+  {
+    "name": "Oklahoma",
+    "type": "state",
+    "country": "US",
+    "lat": 35.5376,
+    "lng": -96.9247,
+    "wikiLink": "Oklahoma",
+    "questions": []
+  },
+  {
+    "name": "Oregon",
+    "type": "state",
+    "country": "US",
+    "lat": 44.5672,
+    "lng": -122.1269,
+    "wikiLink": "Oregon",
+    "questions": []
+  },
+  {
+    "name": "Pennsylvania",
+    "type": "state",
+    "country": "US",
+    "lat": 40.5773,
+    "lng": -77.264,
+    "wikiLink": "Pennsylvania",
+    "questions": []
+  },
+  {
+    "name": "Rhode Island",
+    "type": "state",
+    "country": "US",
+    "lat": 41.6772,
+    "lng": -71.5101,
+    "wikiLink": "Rhode Island",
+    "questions": []
+  },
+  {
+    "name": "South Carolina",
+    "type": "state",
+    "country": "US",
+    "lat": 33.8191,
+    "lng": -80.9066,
+    "wikiLink": "South Carolina",
+    "questions": []
+  },
+  {
+    "name": "South Dakota",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2853,
+    "lng": -99.4632,
+    "wikiLink": "South Dakota",
+    "questions": []
+  },
+  {
+    "name": "Tennessee",
+    "type": "state",
+    "country": "US",
+    "lat": 35.7449,
+    "lng": -86.7489,
+    "wikiLink": "Tennessee",
+    "questions": []
+  },
+  {
+    "name": "Texas",
+    "type": "state",
+    "country": "US",
+    "lat": 31.106,
+    "lng": -97.6475,
+    "wikiLink": "Texas",
+    "questions": []
+  },
+  {
+    "name": "Utah",
+    "type": "state",
+    "country": "US",
+    "lat": 40.1135,
+    "lng": -111.8535,
+    "wikiLink": "Utah",
+    "questions": []
+  },
+  {
+    "name": "Virginia",
+    "type": "state",
+    "country": "US",
+    "lat": 37.768,
+    "lng": -78.2057,
+    "wikiLink": "Virginia",
+    "questions": []
+  },
+  {
+    "name": "Vermont",
+    "type": "state",
+    "country": "US",
+    "lat": 44.0407,
+    "lng": -72.7093,
+    "wikiLink": "Vermont",
+    "questions": []
+  },
+  {
+    "name": "Washington",
+    "type": "state",
+    "country": "US",
+    "lat": 47.3917,
+    "lng": -121.5708,
+    "wikiLink": "Washington",
+    "questions": []
+  },
+  {
+    "name": "Wisconsin",
+    "type": "state",
+    "country": "US",
+    "lat": 44.2563,
+    "lng": -89.6385,
+    "wikiLink": "Wisconsin",
+    "questions": []
+  },
+  {
+    "name": "West Virginia",
+    "type": "state",
+    "country": "US",
+    "lat": 38.468,
+    "lng": -80.9696,
+    "wikiLink": "West Virginia",
+    "questions": []
+  },
+  {
+    "name": "Wyoming",
+    "type": "state",
+    "country": "US",
+    "lat": 42.7475,
+    "lng": -107.2085,
+    "wikiLink": "Wyoming",
+    "questions": []
+  },
+  {
+    "name": "New York",
+    "type": "city",
+    "state": "New York",
+    "country": "US",
+    "lat": 40.7127837,
+    "lng": -74.0059413,
+    "wikiLink": "New York",
+    "questions": [
+      {
+        "difficulty": 0,
+        "type": "text",
+        "text": "Which is the most populous city in the US?",
+        "labels": ["all"],
+        "choices": ["Los Angeles", "San Francisco", "Dallas", "Boston", "Washington"],
+        "zoom": 4
+      }
+    ]
+  },
+  {
+    "name": "Los Angeles",
+    "type": "city",
+    "state": "California",
+    "country": "US",
+    "lat": 34.0522342,
+    "lng": -118.2436849,
+    "wikiLink": "Los Angeles",
+    "questions": [
+      {
+        "difficulty": 0,
+        "type": "text",
+        "text": "Which is the larget city in the state of California?",
+        "labels": ["all"]
+      }
+    ]
+  },
+  {
+    "name": "Chicago",
+    "type": "city",
+    "state": "Illinois",
+    "country": "US",
+    "lat": 41.8781136,
+    "lng": -87.6297982,
+    "wikiLink": "Chicago",
+    "questions": [
+      {
+        "difficulty": 1,
+        "type": "text",
+        "text": "Landmarks in this city include Millennium Park, Navy Pier, and the Magnificent Mile.",
+        "labels": ["all"]
+      }
+    ]
+  },
+  {
+    "name": "Houston",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 29.7604267,
+    "lng": -95.3698028,
+    "wikiLink": "Houston",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which of these cities is nicknamed the Bayou City?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Philadelphia",
+    "type": "city",
+    "state": "Pennsylvania",
+    "country": "US",
+    "lat": 39.9525839,
+    "lng": -75.1652215,
+    "wikiLink": "Philadelphia",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which city served as capital of the Pennsylvania Colony during the British colonial era?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Phoenix",
+    "type": "city",
+    "state": "Arizona",
+    "country": "US",
+    "lat": 33.4483771,
+    "lng": -112.0740373,
+    "wikiLink": "Phoenix,_Arizona",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which city became the capital of Arizona Territory in 1889?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "San Antonio",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 29.4241219,
+    "lng": -98.4936282,
+    "wikiLink": "San_Antonio",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which is the largest majority-Hispanic city in the United States, with 64% of its population being Hispanic?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "San Diego",
+    "type": "city",
+    "state": "California",
+    "country": "US",
+    "lat": 32.715738,
+    "lng": -117.1610838,
+    "wikiLink": "San_Diego",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city has the busiest single-runway airport in the world.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Dallas",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 32.7766642,
+    "lng": -96.7969879,
+    "wikiLink": "Dallas",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city has the largest inland metropolitan area in the U.S. that lacks any navigable link to the sea.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "San Jose",
+    "type": "city",
+    "state": "California",
+    "country": "US",
+    "lat": 37.3382082,
+    "lng": -121.8863286,
+    "wikiLink": "San_Jose,_California",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Which is the largest city in Northern California by both population and area?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Austin",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 30.267153,
+    "lng": -97.7430608,
+    "wikiLink": "Austin",
+    "questions": [{
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which of these is the capital city of Texas?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Indianapolis",
+    "type": "city",
+    "state": "Indiana",
+    "country": "US",
+    "lat": 39.768403,
+    "lng": -86.158068,
+    "wikiLink": "Indianapolis",
+    "questions": [{
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which of these is the capital city of Indiana?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Jacksonville",
+    "type": "city",
+    "state": "Florida",
+    "country": "US",
+    "lat": 30.3321838,
+    "lng": -81.655651,
+    "wikiLink": "Jacksonville",
+    "questions": [{
+      "difficulty": 0,
+      "type": "text",
+      "text": "Which is the largest city by area in the contiguous United States?",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "San Francisco",
+    "type": "city",
+    "state": "California",
+    "country": "US",
+    "lat": 37.7749295,
+    "lng": -122.4194155,
+    "wikiLink": "San_Francisco",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "Three-quarters of this city was destroyed by the 1906 earthquake and fire.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Columbus",
+    "type": "city",
+    "state": "Ohio",
+    "country": "US",
+    "lat": 39.9611755,
+    "lng": -82.9987942,
+    "wikiLink": "Columbus,_Ohio",
+    "questions": [{
+      "difficulty": 0,
+      "type": "text",
+      "text": "This city originated as numerous Native American settlements on the banks of the Scioto River.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Charlotte",
+    "type": "city",
+    "state": "North Carolina",
+    "country": "US",
+    "lat": 35.2270869,
+    "lng": -80.8431267,
+    "wikiLink": "Charlotte",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is home to the corporate headquarters of Bank of America, Truist Financial, and the east coast headquarters of Wells Fargo.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Fort Worth",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 32.7554883,
+    "lng": -97.3307658,
+    "wikiLink": "Fort Worth",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city was established in 1849 as an army outpost on a bluff overlooking the Trinity River.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Detroit",
+    "type": "city",
+    "state": "Michigan",
+    "country": "US",
+    "lat": 42.331427,
+    "lng": -83.0457538,
+    "wikiLink": "Detroit",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "In 2015, this city was named a City of Design by UNESCO, the first U.S. city to receive that designation.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "El Paso",
+    "type": "city",
+    "state": "Texas",
+    "country": "US",
+    "lat": 31.7775757,
+    "lng": -106.4424559,
+    "wikiLink": "El Paso",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is a five-time All-America City Award winner, winning in 1969, 2010, 2018, 2020, and 2021.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Memphis",
+    "type": "city",
+    "state": "Tennessee",
+    "country": "US",
+    "lat": 35.1495343,
+    "lng": -90.0489801,
+    "wikiLink": "Memphis,_Tennessee",
+    "questions": [{
+      "difficulty": 1,
+      "type": "text",
+      "text": "This city is home to a major professional sports team, the Grizzlies of the NBA.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Seattle",
+    "type": "city",
+    "state": "Washington",
+    "country": "US",
+    "lat": 47.6062095,
+    "lng": -122.3320708,
+    "wikiLink": "Seattle",
+    "questions": [{
+      "difficulty": 0,
+      "type": "text",
+      "text": "This city was the origin of the bands Nirvana, Pearl Jam, Soundgarden, Heart, Alice in Chains, and Foo Fighters.",
+      "labels": ["all"]
+    }]
+  },
+  {
+    "name": "Denver",
+    "type": "city",
+    "state": "Colorado",
+    "country": "US",
+    "lat": 39.7392358,
+    "lng": -104.990251,
+    "wikiLink": "Denver",
+    "questions": []
+  },
+  {
+    "name": "Washington",
+    "type": "city",
+    "state": "District of Columbia",
+    "country": "US",
+    "lat": 38.9071923,
+    "lng": -77.0368707,
+    "wikiLink": "Washington",
+    "questions": []
+  },
+  {
+    "name": "Boston",
+    "type": "city",
+    "state": "Massachusetts",
+    "country": "US",
+    "lat": 42.3600825,
+    "lng": -71.0588801,
+    "wikiLink": "Boston",
+    "questions": []
+  },
+  {
+    "name": "Nashville-Davidson",
+    "type": "city",
+    "state": "Tennessee",
+    "country": "US",
+    "lat": 36.1626638,
+    "lng": -86.7816016,
+    "wikiLink": "Nashville-Davidson",
+    "questions": []
+  },
+  {
+    "name": "Baltimore",
+    "type": "city",
+    "state": "Maryland",
+    "country": "US",
+    "lat": 39.2903848,
+    "lng": -76.6121893,
+    "wikiLink": "Baltimore",
+    "questions": []
+  },
+  {
+    "name": "Oklahoma City",
+    "type": "city",
+    "state": "Oklahoma",
+    "country": "US",
+    "lat": 35.4675602,
+    "lng": -97.5164276,
+    "wikiLink": "Oklahoma City",
+    "questions": []
+  },
+  {
+    "name": "Louisville/Jefferson County",
+    "type": "city",
+    "state": "Kentucky",
+    "country": "US",
+    "lat": 38.2526647,
+    "lng": -85.7584557,
+    "wikiLink": "Louisville/Jefferson County",
+    "questions": []
+  },
+  {
+    "name": "Portland",
+    "type": "city",
+    "state": "Oregon",
+    "country": "US",
+    "lat": 45.5230622,
+    "lng": -122.6764816,
+    "wikiLink": "Portland",
+    "questions": []
+  },
+  {
+    "name": "Las Vegas",
+    "type": "city",
+    "state": "Nevada",
+    "country": "US",
+    "lat": 36.1699412,
+    "lng": -115.1398296,
+    "wikiLink": "Las Vegas",
+    "questions": []
+  }
+]
