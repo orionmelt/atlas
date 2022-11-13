@@ -46,7 +46,7 @@ class Atlas extends React.Component {
     }));
   }
 
-  handleClick = (name) => {
+  markerClicked = (name) => {
     if (this.state.currentAnswerPlace !== null) return;
     const places = this.state.places;
     const selectedAnswerPlace = places.find(p => p.name===name);
@@ -105,8 +105,9 @@ class Atlas extends React.Component {
         <div className="pure-u-1 pure-u-md-3-4 map-container">
           <div id="map">
             <GameMap
-              onMarkerClick={this.handleClick}
+              onMarkerClick={this.markerClicked}
               place={round.place}
+              answerPlace={answerPlace}
               labelFeatures={round.question.labels}
               neighbors={round.neighbors}
               center={round.center}

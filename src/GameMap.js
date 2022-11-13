@@ -59,7 +59,7 @@ class GameMap extends React.Component {
   }
 
   render() {
-    const {place, neighbors, center, labelFeatures, onMarkerClick} = this.props;
+    const {place, answerPlace, neighbors, center, labelFeatures, onMarkerClick} = this.props;
     const choices = neighbors.slice();
     choices.push(place);
     const zoom = this.calcZoom(choices);
@@ -71,12 +71,14 @@ class GameMap extends React.Component {
         zoom={zoom}
         options={mapOptions}
       >
-        {choices.map((place) =>
+        {choices.map((choice) =>
           <Marker
-            key={place.name}
-            lat={+place.lat}
-            lng={+place.lng}
-            place={place}
+            key={choice.name}
+            lat={+choice.lat}
+            lng={+choice.lng}
+            place={choice}
+            correctPlace={place}
+            answerPlace={answerPlace}
             onClick={onMarkerClick}
           />
         )}
