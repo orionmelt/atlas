@@ -1,5 +1,5 @@
 import pin from "./pin.png";
-import "./Marker.css"
+import "./Marker.css";
 
 const Marker = (props) => {
   const {place, onClick} = props;

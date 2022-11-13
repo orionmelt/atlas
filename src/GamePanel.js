@@ -1,5 +1,5 @@
-import "./GamePanel.css";
 import { getRandomElement } from "./Utils";
+import "./GamePanel.css";
 
 const GamePanel = (props) => {
   const {currentRound, totalRounds, place, question, score, answerPlace, showNext, gameOver, onNext, onReset} = props;

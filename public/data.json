@@ -1026,6 +1026,15 @@
     "questions": []
   },
   {
+    "name": "Myanmar",
+    "type": "country",
+    "lat": 21.916200,
+    "lng": 95.956000,
+    "wikiLink": "Myanmar",
+    "flag": "🇲🇲",
+    "questions": []
+  },
+  {
     "name": "Namibia",
     "type": "country",
     "lat": -22.95764,
@@ -1494,6 +1503,15 @@
     "questions": []
   },
   {
+    "name": "Trinidad and Tobago",
+    "type": "country",
+    "lat": 10.691800,
+    "lng": -61.222500,
+    "wikiLink": "Trinidad_and_Tobago",
+    "flag": "🇹🇹",
+    "questions": []
+  },
+  {
     "name": "Tunisia",
     "type": "country",
     "lat": 33.886917,
@@ -1545,6 +1563,15 @@
     "lng": 31.16558,
     "wikiLink": "Ukraine",
     "flag": "🇺🇦",
+    "questions": []
+  },
+  {
+    "name": "United Arab Emirates",
+    "type": "country",
+    "lat": 23.424100,
+    "lng": 53.847800,
+    "wikiLink": "United_Arab_Emirates",
+    "flag": "🇦🇪",
     "questions": []
   },
   {
