@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/atlas/static/css/main.a76fea09.css",
-    "main.js": "/atlas/static/js/main.33710683.js",
-    "static/media/pin.png": "/atlas/static/media/pin.4a41852262cf6c43e19c.png",
+    "main.js": "/atlas/static/js/main.f1b2acf8.js",
+    "static/media/pin-blue.png": "/atlas/static/media/pin-blue.cabbb57bdbc609e73734.png",
+    "static/media/pin-green.png": "/atlas/static/media/pin-green.8b1ff49314098f5a4e9d.png",
+    "static/media/pin-red.png": "/atlas/static/media/pin-red.4a41852262cf6c43e19c.png",
     "index.html": "/atlas/index.html",
     "main.a76fea09.css.map": "/atlas/static/css/main.a76fea09.css.map",
-    "main.33710683.js.map": "/atlas/static/js/main.33710683.js.map"
+    "main.f1b2acf8.js.map": "/atlas/static/js/main.f1b2acf8.js.map"
   },
   "entrypoints": [
     "static/css/main.a76fea09.css",
-    "static/js/main.33710683.js"
+    "static/js/main.f1b2acf8.js"
   ]
 }
